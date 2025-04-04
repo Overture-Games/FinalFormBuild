@@ -1,7 +1,6 @@
 {
   "short_name": "React App",
   "name": "Create React App Sample",
-  "homepage": "https://overture-games.github.io/FinalFormBuild/",
   "icons": [
     {
       "src": "favicon.ico",
